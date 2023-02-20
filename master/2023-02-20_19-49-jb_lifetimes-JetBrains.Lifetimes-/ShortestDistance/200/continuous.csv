@@ -1,0 +1,5 @@
+ElapsedMillis,CoveringStepsInsideZone,NonCoveringStepsInsideZone,CoveringStepsOutsideZone,NonCoveringStepsOutsideZone,TestsCount,BranchesReleased,StatesCount,ErrorsCount,CoveringStatesCount
+487,0,0,0,0,0,False,14,0,0
+513,0,0,0,0,0,False,14,0,0
+762,0,0,0,0,0,False,14,0,0
+1011,0,0,0,0,0,False,14,0,0
